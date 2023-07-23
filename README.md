@@ -16,6 +16,7 @@ Done in Matlab
 
   Invert a 3x3 matrix in Texas Instruments assembly
 
-# VHDL (files starting with VHDL)
+# VHDL
 
   Assignment details are in VHDL_lab2_uputstvo.pdf
+  The solution files are the ones ending with .vhd
