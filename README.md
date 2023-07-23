@@ -18,4 +18,4 @@ Done in Matlab
 
 # VHDL
 
-  Assignment details are in VHDL_lab2_uputstvo.pdf  /  The solution files are the ones ending with .vhd
+  Assignment details are in VHDL_lab2_uputstvo.pdf  /  The solution files are the ones ending with .vhd with adequate test benches (*_tb.vhd)
