@@ -1,4 +1,4 @@
-# Mechanics
+# Mechanics (files starting with Mech.*)
 Constraint stabilization method
 
   A small ball of mass m can slide without friction on a ring of radius R. The ring rotates with an angular velocity Ω about
