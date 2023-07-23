@@ -1,5 +1,6 @@
 # Mechanics
 Constraint stabilization method
+
   A small ball of mass m can slide without friction on a ring of radius R. The ring rotates with an angular velocity Ω about
   vertical axis passing through its center. The system is located in the constant gravitational field of the Earth.
   Consider that the hoop is fixed so that its only degree of freedom is rotation around a vertical axis passing through
