@@ -1,4 +1,4 @@
-# Mechanics (files starting with Mech.*)
+# Mechanics (files starting with Mech*)
 Constraint stabilization method
 
   A small ball of mass m can slide without friction on a ring of radius R. The ring rotates with an angular velocity Ω about
@@ -15,3 +15,7 @@ Done in Matlab
 # Digital Signal Processors (file starting with DSP)
 
   Invert a 3x3 matrix in Texas Instruments assembly
+
+# VHDL (files starting with VHDL)
+
+  Assignment details are in VHDL_lab2_uputstvo.pdf
