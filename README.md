@@ -11,3 +11,7 @@ Constraint stabilization method
   using the constraint stabilization method. Depending on the angular velocity of the hoop, determine the stable position
   balance balls. For the case of small oscillations around each tested equilibrium position, display graphics.
 Done in Matlab
+
+# Digital Signal Processors (file starting with DSP)
+
+  Invert a 3x3 matrix in Texas Instruments assembly
